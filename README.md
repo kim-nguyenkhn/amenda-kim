@@ -10,6 +10,8 @@ This is a Git & Github tutorial!
 ## New Orleans Restaurants
 * Cafe Du Monde
 * Cajun City
+* Crawdaddy
+* Boiling Crab
 
 ## Web Dev Interview Links
 
