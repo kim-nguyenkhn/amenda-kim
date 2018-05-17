@@ -2,6 +2,22 @@
 
 This is a Git & Github tutorial!
 
+## GitHub Tips
+
+```bash
+# view remote branches
+git remote -vv
+
+# get changes from upstream
+git fetch upstream
+git rebase upstream/master
+
+# commit & push changes from your local
+git add .
+git commit -m "some commit message"
+git push
+```
+
 ## Breeds of Cats
 * Tabby
 * Munchkin
