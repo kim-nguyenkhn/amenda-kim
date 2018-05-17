@@ -35,5 +35,8 @@ git push
 ## Web Dev Interview Links
 
 ## Las Vegas Casinos
+* Harrah's
+* Paris
+* Treasure Island
 
 ## Southwest Flights
