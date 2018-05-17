@@ -26,6 +26,9 @@ git push
 
 ## New Orleans Restaurants
 * Cafe Du Monde
+* Cajun City
+* Crawdaddy
+* Boiling Crab
 * Cajun Seafood
 * Tropical Isle
 
