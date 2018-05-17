@@ -43,3 +43,4 @@ git push
 * Costa Rica
 * Florida
 * New York City
+* Departure time at 5:10 PM
