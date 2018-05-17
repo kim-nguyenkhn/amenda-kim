@@ -40,3 +40,6 @@ git push
 * Treasure Island
 
 ## Southwest Flights
+* Costa Rica
+* Florida
+* New York City
